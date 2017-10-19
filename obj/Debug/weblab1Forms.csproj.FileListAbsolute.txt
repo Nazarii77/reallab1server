@@ -1,0 +1,15 @@
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\obj\Debug\weblab1Forms.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\obj\Debug\weblab1Forms.Form1.resources
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\obj\Debug\weblab1Forms.Properties.Resources.resources
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\obj\Debug\weblab1Forms.csproj.GenerateResource.Cache
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\obj\Debug\weblab1Forms.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\bin\Debug\weblab1Forms.exe.config
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\bin\Debug\weblab1Forms.exe
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\bin\Debug\weblab1Forms.pdb
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\bin\Debug\EntityFramework.dll
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\bin\Debug\EntityFramework.xml
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\obj\Debug\weblab1Forms.exe
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\obj\Debug\weblab1Forms.pdb
+C:\Users\Nazar\source\repos\weblab1Forms\weblab1Forms\obj\Debug\weblab1Forms.Form3.resources
