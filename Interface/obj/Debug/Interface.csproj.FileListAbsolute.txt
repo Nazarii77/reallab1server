@@ -1,0 +1,13 @@
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\bin\Debug\Interface.exe.config
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\bin\Debug\Interface.exe
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\bin\Debug\Interface.pdb
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\bin\Debug\EntityFramework.dll
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\bin\Debug\EntityFramework.xml
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\obj\Debug\Interface.Form1.resources
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\obj\Debug\Interface.Properties.Resources.resources
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\obj\Debug\Interface.exe
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\Interface\obj\Debug\Interface.pdb

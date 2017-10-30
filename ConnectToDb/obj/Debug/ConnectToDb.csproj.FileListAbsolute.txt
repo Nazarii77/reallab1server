@@ -1,0 +1,10 @@
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\bin\Debug\ConnectToDb.exe.config
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\bin\Debug\ConnectToDb.exe
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\bin\Debug\ConnectToDb.pdb
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\bin\Debug\EntityFramework.dll
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\bin\Debug\EntityFramework.xml
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\obj\Debug\ConnectToDb.csprojResolveAssemblyReference.cache
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\obj\Debug\ConnectToDb.exe
+D:\Users\Nazar\Desktop\Серверне веб програмування\lab1_server_programming-master\ConnectToDb\obj\Debug\ConnectToDb.pdb
